@@ -1,0 +1,18 @@
+body
+{
+	background-color: DarkSeaGreen;
+}
+th
+{
+	border-style: solid;
+}
+td
+{
+	border-style: solid;
+}
+p
+{
+    color: white;
+	font-family: "Times New Roman", Times, Serif
+	font-size: 16px
+}
