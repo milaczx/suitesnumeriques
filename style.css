@@ -15,7 +15,10 @@ p
     color: white;
 	font-family: "Times New Roman", Times, Serif;
 	font-size: 16px;
-  border: 1px solid black;
+}
+.n
+{
+	  border: 1px solid black;
   margin: 25px 50px 75px;
   background-color: lightblue;
 }
